@@ -48,6 +48,9 @@ Neste momento, estou em um período de transição de carreira. Estou ávido por
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/carloseduardo_arajo)
 
 
+<p align="centre"><b>Contador de visitantes</b></p>  
+<p align="center"><img align="center"color="98FB98"src="https://profile-counter.glitch.me/{CarRod-ara}/count.svg" /></p>
+
 
 
 
