@@ -4,13 +4,11 @@ Sou um estudante autodidata de programação, pai de uma obra de arte (sim, minh
 
 Ao longo dos anos, trilhei uma jornada de aprendizado, buscando conhecimento através de diversos cursos:
 
-* Informática: Base para eu fascinio por computadores e tecnologia.
-* Montagem e Manutenção de Micros: Mergulhando no hardware e funcionamento das máquinas.
+* Informática: Base para meu fascinio por computadores e tecnologia.
+* Montagem e Manutenção de Micros: Compreendendo o hardware e funcionamento das máquinas.
 * Análise e Desenvolvimento de Dados:  Absorvendo os desafios que me aguardavam e expandindo meu conhecimento nas mais diversas tarefas.
 
-Atualmente, me dedico a um bootcamp com a equipe DIO, aprimorando minhas habilidades e me preparando para os desafios do mercado de trabalho. Meu foco principal é o desenvolvimento com C# e suas ferramentas.
-
-Mas não se engane! Além da paixão pela programação, sou um pai dedicado e apaixonado pela minha filha Artemis. Ela é minha inspiração, minha força motriz e a razão pela qual busco um futuro promissor na área de tecnologia.
+Atualmente, estou me dedicando a um bootcamp com a equipe DIO, aprimorando minhas habilidades e me preparando para os desafios do mercado de trabalho. Meu foco principal é o desenvolvimento com C# e suas ferramentas.
 
 Neste momento, estou em um período de transição de carreira. Estou ávido por novos desafios, disposto a participar de projetos inovadores e colocar em prática o que aprendi ao longo dos anos. Acredito que a combinação de meu fascinio pela programação, minha experiência diversificada e minha dedicação me tornará um profissional valioso para qualquer equipe.
 
