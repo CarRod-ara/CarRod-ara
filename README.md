@@ -1,8 +1,18 @@
 ## 👋Olá, eu sou o *Carlos Eduardo*
 
-Minha jornada na programação começou como um autodidata curioso, explorando desde a base da informática até o desenvolvimento de jogos com C++. Atualmente, estou em um bootcamp, aprimorando minhas habilidades e me dedicando ao domínio do C# e suas ferramentas.
+Sou um estudante autodidata de programação, pai de uma obra de arte (sim, minha filha se chama Artemis!) e em busca de me especializar na área de back-end.
 
-Meu objetivo: me tornar um profissional completo, capaz de contribuir para projetos inovadores e impactantes, utilizando meus conhecimentos e habilidades para construir um futuro digital promissor.
+Ao longo dos anos, trilhei uma jornada de aprendizado incessante, buscando conhecimento através de diversos cursos:
+
+* Informática: Base para eu fascinio por computadores e tecnologia.
+* Montagem e Manutenção de Micros: Mergulhando no hardware e funcionamento das máquinas.
+* Análise e Desenvolvimento de Dados: Absorvendo o quê me aguardaria e fomentando meu conhecimento nas mais diversas tarefas, rente aos desafios dos quais iria me propor a vivênciar.
+
+Atualmente, me dedico a um bootcamp com a equipe DIO, aprimorando minhas habilidades e me preparando para os desafios do mercado de trabalho. Meu foco principal é o desenvolvimento com C# e suas ferramentas.
+
+Mas não se engane! Além da paixão pela programação, sou um pai dedicado e apaixonado pela minha filha Artemis. Ela é minha inspiração, minha força motriz e a razão pela qual busco um futuro promissor na área de tecnologia.
+
+Neste momento, estou em um período de transição de carreira. Estou ávido por novos desafios, disposto a participar de projetos inovadores e colocar em prática o que aprendi ao longo dos anos. Acredito que a combinação de meu fascinio pela programação, minha experiência diversificada e minha dedicação me tornará um profissional valioso para qualquer equipe.
 
 ## 🌱 Habilidades
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
