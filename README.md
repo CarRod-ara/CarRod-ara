@@ -2,11 +2,11 @@
 
 Sou um estudante autodidata de programação, pai de uma obra de arte (sim, minha filha se chama Artemis!) e em busca de me especializar na área de back-end.
 
-Ao longo dos anos, trilhei uma jornada de aprendizado incessante, buscando conhecimento através de diversos cursos:
+Ao longo dos anos, trilhei uma jornada de aprendizado, buscando conhecimento através de diversos cursos:
 
 * Informática: Base para eu fascinio por computadores e tecnologia.
 * Montagem e Manutenção de Micros: Mergulhando no hardware e funcionamento das máquinas.
-* Análise e Desenvolvimento de Dados: Absorvendo o quê me aguardaria e fomentando meu conhecimento nas mais diversas tarefas, rente aos desafios dos quais iria me propor a vivênciar.
+* Análise e Desenvolvimento de Dados:  Absorvendo os desafios que me aguardavam e expandindo meu conhecimento nas mais diversas tarefas.
 
 Atualmente, me dedico a um bootcamp com a equipe DIO, aprimorando minhas habilidades e me preparando para os desafios do mercado de trabalho. Meu foco principal é o desenvolvimento com C# e suas ferramentas.
 
